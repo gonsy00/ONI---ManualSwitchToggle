@@ -27,7 +27,7 @@ Before patch AP-395113 (February 2020), switches required duplicant interaction.
 Requirements:
 - Visual Studio 2022
 - .NET Framework 4.7.1 targeting pack
-- Oxygen Not Included installed at `D:\Videojuegos\SteamLibrary\steamapps\common\OxygenNotIncluded`
+- Oxygen Not Included installed at `C:\Program Files (x86)\Steam\steamapps\common\OxygenNotIncluded`
   *(adjust the `<HintPath>` entries in `ManualSwitchToggle.csproj` if your game is installed elsewhere)*
 
 Open `ManualSwitchToggle.csproj` in Visual Studio and build (`Ctrl+Shift+B`). The compiled mod is automatically copied to `%USERPROFILE%\Documents\Klei\OxygenNotIncluded\mods\Dev\ManualSwitchToggle\`.
