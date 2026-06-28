@@ -1,0 +1,3 @@
+title: "Manual Switch Toggle"
+description: "Restores the old behavior where Signal Switches and Power Switches require a duplicant to physically walk to them and toggle them, instead of toggling instantly."
+staticID: "ManualSwitchToggle_Gorila"

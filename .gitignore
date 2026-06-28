@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docview
+
+# Compiled mod (players download this from Releases, not from source)
+*.dll
+*.pdb
