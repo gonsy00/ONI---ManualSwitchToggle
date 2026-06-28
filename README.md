@@ -34,7 +34,7 @@ Open `ManualSwitchToggle.csproj` in Visual Studio and build (`Ctrl+Shift+B`). Th
 
 ## Compatibility
 
-- Tested on the current version of ONI (including the Frosty Planet Pack DLC).
+- Tested on version U59-736649 (June 11, 2026), including the Aquatic Planet Pack DLC.
 - Compatible with mods that add custom switches implementing `IPlayerControlledToggle`.
 - Does not affect threshold switches (pressure, temperature) — those are automated and unaffected.
 
